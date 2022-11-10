@@ -18,7 +18,7 @@ Levels (In Increasing Difficulty)
 
 <ol>
   <li>Provide the ransomware name for the hash '63625702e63e333f235b5025078cea1545f29b1ad42b1e46031911321779b6be' using open-source lookup tools...
-</li>
-  
-  Go to virustotal.com and click the search option.  Paste the hash into virustotal. Go to community after it loads.  You can see where this indicator has been linked to the __Conti__ ransomware.
+  </li>
 </ol>
+
+>Go to virustotal.com and click the search option.  Paste the hash into virustotal. Go to community after it loads.  You can see where this indicator has been linked to the __Conti__ ransomware.
