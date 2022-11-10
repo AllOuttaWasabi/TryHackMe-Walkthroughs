@@ -14,7 +14,7 @@ Levels (In Increasing Difficulty)
 </ol>
 
 
-### Disclaimer - DO NOT PROCEED TO ANY IPs MENTIONED IN THIS WALKTHROUGH.  MALICIOUS IPs ARE PRESENT.  These IPs have been included for WALKTHROUGH PURPOSES.  ANY DAMAGE THAT IS DONE THROUGH YOUR OWN ACTIONS IS ON YOU!  
+### Disclaimer - DO NOT PROCEED TO ANY IPs or WEBSITES MENTIONED IN THIS WALKTHROUGH.  MALICIOUS IPs ARE PRESENT.  These IPs have been included for WALKTHROUGH PURPOSES.  ANY DAMAGE THAT IS DONE THROUGH YOUR OWN ACTIONS IS ON YOU!  
 
 ### Hash Values
 
@@ -38,4 +38,34 @@ Levels (In Increasing Difficulty)
   <li>What is the domain name associated with the first IP address observed?</li>
   
   >Look at the Domain column.  The first entry should be __craftingalegacy.com__
+</ol>
+
+
+
+### Domain Names
+
+__Click the link to the app.any.run report to answer the first question.__
+
+<ol>
+  <li>Go to this report on app.any.run and provide the first malicious URL request you are seeing, you will be using this report to answer the remaining questions of this task.</li>
+  
+  >Open the link.  Go to the connections tab.  Look at the Domain column for the first row.  You should see __craftingalegacy.com__ 
+  
+  <li>What term refers to an address used to access websites?</li>
+  
+  >How do you map an IP address to text?  You do so by using a __Domain Name__.
+  
+  <li>What type of attack uses Unicode characters in the domain name to imitate the a known domain?</li>
+  
+  >"Punycode is a system for converting words that can't be written in ASCII"
+  
+  >"Unicode Domains"
+  
+  >When a victim is forced to click a link that otherwise looks authentic, it's called a __Punycode Attack__.  Look up in that section for more information.
+  
+  <li>Provide the redirected website for the shortened URL using a preview: https://tinyurl.com/bw7t8p4u - (Checked for legitimacy)</li>
+  
+  >Simply add a + on to the end of the tinyurl and press enter.  Look down.  You'll see the redirected website which is, __https://tryhackme.com/__
+  
+  
 </ol>
