@@ -10,5 +10,5 @@ Levels (In Increasing Difficulty)
   <li>Domain Names (Simple)</li>
   <li>Network/Host Artifacts (Annoying)</li>
   <li>Tools (Challenging)</li>
-  <li>TTPs (Tought)</li>
+  <li>TTPs (Tough)</li>
 </ol>
