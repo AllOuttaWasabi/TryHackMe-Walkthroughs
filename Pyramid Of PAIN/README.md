@@ -14,6 +14,8 @@ Levels (In Increasing Difficulty)
 </ol>
 
 
+### Disclaimer - DO NOT PROCEED TO ANY IPs MENTIONED IN THIS WALKTHROUGH.  MALICIOUS IPs ARE PRESENT.  These IPs have been included for WALKTHROUGH PURPOSES.  ANY DAMAGE THAT IS DONE THROUGH YOUR OWN ACTIONS IS ON YOU!  
+
 ### Hash Values
 
 <ol>
@@ -29,3 +31,9 @@ Levels (In Increasing Difficulty)
 ### IP Addresses
 
 <ol>
+  <li>What is the ASN for the third IP address observed?</li>
+  > Open the app.any.run link.  Click on the connections tab.  Scroll over to the ASN tab.  You should see the name, __Host Europe Gmbh__
+  
+  <li>What is the domain name associated with the first IP address observed?</li>
+  >Look at the Domain column.  The first entry should be __craftingalegacy.com__
+</ol>
