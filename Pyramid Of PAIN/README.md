@@ -67,5 +67,30 @@ __Click the link to the app.any.run report to answer the first question.__
   
   >Simply add a + on to the end of the tinyurl and press enter.  Look down.  You'll see the redirected website which is, __https://tryhackme.com/__   (Not a paid sponsor.)
   
-  
+</ol>
+
+### Host Artifacts
+
+<ol>
+
+<li>What is the suspicious IP the victim machine tried to connect to in the screenshot above?</li>
+
+>Look at the second image.  Look at the TCP receive.  It appears that there's outbound communication to an IP address.  This could be an issue.  Open up virustotal.com in a browser and search the ip 35[.]214[.]215[.]33 (remove the brackets. IT DOES NOT APPEAR MALICIOUS BUT IT IS.  __WARNING: This IS a malicious IP so do not enter directly into your browser.__  It WILL connect to it and you WILL be at risk.)
+
+
+<li>Use the tools introduced in task 2 and provide the name of the malware associated with the IP address</li>
+
+>  Look at the virustotal page you have pulled up from the previous question. You can see the name of the malware if you go to relations or community.  It is __Emotet__.  And it's back. 
+
+
+<li>Using your OSINT skills, what is the name of the malicious document associated with the dropped binary?</li>
+
+>Look at the pictures.  Should be self-explanatory.  It's __G_jugk.exe__
+
+<li>Use your OSINT skills and provide the name of the malicious document associated with the dropped binary</li>
+
+>Google the file name.  Avoid searching just for the file.  Search for it by using terms such as, "What is __insert file name__".  You will see a couple of sandbox environments pop up.  Click on the any.run sandbox and look for the name.  It should stick out.
+
+>It's __CMO-100120 CDW-102220.doc__
+
 </ol>
