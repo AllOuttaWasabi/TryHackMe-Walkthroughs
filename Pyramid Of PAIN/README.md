@@ -65,7 +65,7 @@ __Click the link to the app.any.run report to answer the first question.__
   
   <li>Provide the redirected website for the shortened URL using a preview: https://tinyurl.com/bw7t8p4u - (Checked for legitimacy)</li>
   
-  >Simply add a + on to the end of the tinyurl and press enter.  Look down.  You'll see the redirected website which is, __https://tryhackme.com/__
+  >Simply add a + on to the end of the tinyurl and press enter.  Look down.  You'll see the redirected website which is, __https://tryhackme.com/__   (Not a paid sponsor.)
   
   
 </ol>
