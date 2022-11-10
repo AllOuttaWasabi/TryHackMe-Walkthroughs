@@ -5,10 +5,10 @@ Used to improve the effectiveness of Cyber Threat Intelligence
 Levels (In Increasing Difficulty)
 
 <ol>
-  <li>Hash Values</li>
-  <li>IP Addresses</li>
-  <li>Domain Names</li>
-  <li>Network/Host Artifacts</li>
-  <li>Tools</li>
-  <li>TTPs</li>
+  <li>Hash Values (Trivial)</li>
+  <li>IP Addresses (Easy)</li>
+  <li>Domain Names (Simple)</li>
+  <li>Network/Host Artifacts (Annoying)</li>
+  <li>Tools (Challenging)</li>
+  <li>TTPs (Tought)</li>
 </ol>
