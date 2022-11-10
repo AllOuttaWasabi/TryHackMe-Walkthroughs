@@ -4,16 +4,11 @@ Used to improve the effectiveness of Cyber Threat Intelligence
 
 Levels (In Increasing Difficulty)
 
-Hash Values 
-IP Addresses
-Domain Names
-Network/Host Artifacts
-Tools
-TTPs
-
 <ol>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li>Hash Values</li>
+  <li>IP Addresses</li>
+  <li>Domain Names</li>
+  <li>Network/Host Artifacts</li>
+  <li>Tools</li>
+  <li>TTPs</li>
 </ol>
