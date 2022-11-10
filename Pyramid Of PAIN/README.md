@@ -12,3 +12,11 @@ Levels (In Increasing Difficulty)
   <li>Tools (Challenging)</li>
   <li>TTPs (Tough)</li>
 </ol>
+
+
+### Hash Values
+
+<ol>
+  <li>Provide the ransomware name for the hash '63625702e63e333f235b5025078cea1545f29b1ad42b1e46031911321779b6be' using open-source lookup tools...
+</li>
+</ol>
