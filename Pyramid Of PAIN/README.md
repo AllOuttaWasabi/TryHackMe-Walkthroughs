@@ -80,7 +80,10 @@ __Click the link to the app.any.run report to answer the first question.__
 
 <li>Use the tools introduced in task 2 and provide the name of the malware associated with the IP address</li>
 
->  Look at the virustotal page you have pulled up from the previous question. You can see the name of the malware if you go to relations or community.  It is __Emotet__.  And it's back. 
+> Look at the virustotal page you have pulled up from the previous question. You can see the name of the malware if you go to relations or community.  
+  
+>It's __Emotet__.  
+__Emotet used Hyper Beam__
 
 
 <li>Using your OSINT skills, what is the name of the malicious document associated with the dropped binary?</li>
@@ -93,4 +96,19 @@ __Click the link to the app.any.run report to answer the first question.__
 
 >It's __CMO-100120 CDW-102220.doc__
 
+</ol>
+
+
+### Network Artifacts
+
+<ol>
+  <li>What browser uses the User-Agent string shown in the screenshot above?</li>
+  
+  >Copy and paste the hint into a search engine and see what browser it is.
+  
+  >It's __Internet Explorer__ !  
+  
+  <li>How many POST requests are in the screenshot from the pcap file?</li>
+  
+  >Look at the first image in the section.  How many post requests do you see?  It should be __6__.
 </ol>
