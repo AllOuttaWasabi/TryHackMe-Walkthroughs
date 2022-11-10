@@ -32,8 +32,10 @@ Levels (In Increasing Difficulty)
 
 <ol>
   <li>What is the ASN for the third IP address observed?</li>
-  > Open the app.any.run link.  Click on the connections tab.  Scroll over to the ASN tab.  You should see the name, __Host Europe Gmbh__
+  
+  >Open the app.any.run link.  Click on the connections tab.  Scroll over to the ASN tab.  You should see the name, __Host Europe Gmbh__
   
   <li>What is the domain name associated with the first IP address observed?</li>
+  
   >Look at the Domain column.  The first entry should be __craftingalegacy.com__
 </ol>
