@@ -112,3 +112,31 @@ __Emotet used Hyper Beam__
   
   >Look at the first image in the section.  How many post requests do you see?  It should be __6__.
 </ol>
+
+
+### Tools
+
+<ol>
+  <li>Provide the method used to determine similarity between the files</li>
+  
+  > __Fuzzy Hashing__ is a way to check similarity between files.
+  
+  <li>Provide the alternative name for fuzzy hashes without the abbreviation </li>
+  
+  > Go to the SSDeep site.  You should see the name at the top of the documentation.  It's __context triggered piecewise hashes__ 
+</ol>
+
+### TTPs
+
+<ol>
+  <li>Navigate to ATT&CK Matrix webpage. How many techniques fall under the Exfiltration category?</li>
+  
+  >Pull up MITRE ATT&CK matrix.  Look at the EXFILTRATION section.  How many are there?  There should be __9__.
+  
+  <li>Chimera is a China-based hacking group that has been active since 2018. What is the name of the commercial, remote access tool they use for C2 beacons and data exfiltration?</li>
+  
+  >Building on the last question.  Do you see something in exfiltration relating to C2?  Click that link.  Now look down under procedure examples.  You should see some IDs, APT names and descriptions.  Look for __Chimera__ and see what it says.
+  
+  >They use __Cobalt Strike__
+</ol>
+ 
